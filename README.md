@@ -3,6 +3,7 @@
 
 We provide implementations of our proposed models in PyTorch for both regression and classification tasks in `models.py`. 
 For examples on how to use those classes in practice we have two simple experiments that use them in `FNP Example.py`.  
+This code is provided as is and is not maintained / updated.
 
 ## *Reference*
     @article{louizos2019functional,
@@ -10,3 +11,4 @@ For examples on how to use those classes in practice we have two simple experime
     author={Louizos, Christos and Shi, Xiahan and Schutte, Klamer and Welling, Max},
     journal={Advances in Neural Information Processing Systems},
     year={2019}}
+    
